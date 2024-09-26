@@ -1,0 +1,11 @@
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/bin/Debug/net8.0/BankingSystem.Common.deps.json
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/bin/Debug/net8.0/BankingSystem.Common.dll
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/bin/Debug/net8.0/BankingSystem.Common.pdb
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.AssemblyInfoInputs.cache
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.AssemblyInfo.cs
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.csproj.CoreCompileInputs.cache
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.dll
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/refint/BankingSystem.Common.dll
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/BankingSystem.Common.pdb
+/Users/ryankendrick/RiderProjects/BankingSystem/BankingSystem.Common/obj/Debug/net8.0/ref/BankingSystem.Common.dll
